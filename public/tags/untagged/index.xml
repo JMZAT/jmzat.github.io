@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on Algorithmic Trading</title>
+    <link>http://localhost:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on Algorithmic Trading</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2025 22:42:35 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Algo - Blog Post 1</title>
+      <link>http://localhost:1313/blog-posts/post0001/</link>
+      <pubDate>Mon, 13 Jan 2025 22:42:35 +0200</pubDate>
+      <guid>http://localhost:1313/blog-posts/post0001/</guid>
+      <description>&lt;p&gt;2025 marks the first year that I am confident enough in my abilities to deploy fully automated algorithmic trading strategies. Having started demo trading at age 15, and real money trading shortly after my 18th birthday, it has taken quite some time to get to this point! I am writing this blog to catalogue my progress, keep myself accountable, and engage with other traders.&lt;/p&gt;&#xA;&lt;p&gt;I found various systems over the years, which yielded mixed results. While the results of some systems were in line with expectation, others were significantly underperforming. Unfortunately I misdiagnosed this underperformance until 3 years ago when I first learned how to construct custom backtests. Manual trading allows for human error due to the possibility of using individual discretion outside of the system, to which I had initially attributed most of my underperformance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

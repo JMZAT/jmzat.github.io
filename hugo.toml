@@ -1,0 +1,42 @@
+baseURL = 'https://jmzat.github.io/'
+languageCode = 'en-us'
+title = 'Algorithmic Trading'
+theme = 'hermit-v2'
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  
+  description = "Continuing Hermit's legacy to be minimal and fast theme"
+  # images = [""]
+  themeColor = "#494f5c"
+  accentColor = "#018472"
+  homeSubtitle = "Returns ∝ 1/Discretion"
+
+  [[params.socialLinks]]
+  name = "github"
+  url = "https://github.com/jmzat"
+
+  [[params.socialLinks]]
+  name = "x"
+  url = "https://x.com/Zatters5"
+    
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "about/about/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Blog Posts"
+    url = "blog-posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Papers"
+    url = "papers/"
+    weight = 10
+
